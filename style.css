@@ -127,7 +127,6 @@ body{
 /* Main-content flex box  style*/
 .main-container{
     margin:2rem auto;
-    height:40rem;
     width:90%;
     display:flex;
     flex-direction: row;
