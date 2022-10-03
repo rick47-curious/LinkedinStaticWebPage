@@ -155,7 +155,7 @@ body{
 /*Style for individual childs of left containers*/
 .left-container > .left-child1{
     background-color: var(--container-background);
-    height:23.9rem;
+    height:23.42rem;
     border: 0.6px solid var(--border-color);
     margin-bottom:1rem;
 }
@@ -223,7 +223,6 @@ body{
     background-color: var(--background);
 }
 #bold-info{
-    margin-top:0.5rem;
     font-weight: 700;
     font-size: 0.7rem;
 }
@@ -335,24 +334,24 @@ body{
     background-color: var(--container-background);
 }
 .pad-left{
-    padding:0 1rem;;
+    padding:0 1rem;
 }
 
 .news-feed{
-    margin:1rem 1rem;
-    list-style-image: url(./images/BulletIcon.jpg) ;
-
+    margin:1rem 0;
 }
-.news-feed > li{
+.news-feed > div{
+    padding: 0.2rem 1rem;
     margin-bottom:0.5rem;
-    text-align: start;
 }
-.news-feed > li:hover{
+.news-feed > div:hover{
     background-color: var(--background);
-    width:100% !important;
 }
 .news-feed p{
     margin-bottom:0.4rem;
+}
+.shead-pad{
+    margin-left: 1rem;
 }
 
 /* Right container Follow tab */
