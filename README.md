@@ -1,4 +1,4 @@
-##LinkedIn Static Webpage Clone
+LinkedIn Static Webpage Clone
 
 Creator : Anuplab Chatterjee
 
