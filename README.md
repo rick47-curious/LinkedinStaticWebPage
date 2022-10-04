@@ -1,5 +1,5 @@
-LinkedIn Static Webpage Clone
+# LinkedIn Static Webpage Clone
 
-Creator : Anuplab Chatterjee
+### Creator : Anuplab Chatterjee
 
-Organization: SkillAcademy (Testbook)
+### Organization: SkillAcademy (Testbook)
