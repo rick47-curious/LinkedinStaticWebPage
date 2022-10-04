@@ -1,2 +1,5 @@
-# LinkedinStaticWebPage
-A static clone of the LinkedIin web application
+LinkedIn Static Webpage Clone
+
+Creator : Anuplab Chatterjee
+
+Organization: SkillAcademy (Testbook)
